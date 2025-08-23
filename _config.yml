@@ -18,14 +18,13 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/
-  - assets / images **                           # For Documentation Only
+  - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
   name              : Eunkyoung KIM
-  image_path        : /assets/images/hello.JPG
+  image_path        : "./assets/images/hello.JPG"
 # dribbble          : your_username
   email             : szeunkk@gmail.com
 #  facebook          : your_username
